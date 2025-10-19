@@ -44,7 +44,7 @@ def R(m,email,num):
  if "Thanks" in req:
   
   
-  print(f'{G}[√]REPORT{E}==>{B} SUCCESS {E}| {G}{E}{B} {G}FROM{E}==> \033[35;m{email}{B} \nTHIS TOOL IS MADE BY ATHEX\n')
+  print(f'{G}[√]REPORT{E}==>{B} SUCCESS {E}| {G}{E}{B} {G}FROM{E}==> \033[35;m{email}{B} \nTHIS TOOL IS MADE BY MONI\n')
  else:
   print("Error Report")
 u=input(

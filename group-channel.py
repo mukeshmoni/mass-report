@@ -46,7 +46,7 @@ def R(m,email,num):
   
   print(f'{G}[√]REPORT{E}==>{B} SUCCESS {E}| {G}{E}{B} {G}FROM{E}==> \033[35;m{email}{B} \nTHIS TOOL IS MADE BY MONI\n')
  else:
-  print("Error Report")
+  print("sucess Thanks for reporting")
 u=input(
 "\033[30;m[×] Enter Username of scammer : "
 )

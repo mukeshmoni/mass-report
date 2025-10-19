@@ -52,11 +52,13 @@ u=input(
 )
 m = """Hello sir/ma'am,
 
-I would like to report a Telegram group/channel there is engaging in suspicious and harmful activities. group/channel username is """https://t.me/team_144""" . I believe they may be involved in scams and pornography content, which is causing harm to the community. I would appreciate it if you could look into this matter and take appropriate action.
+
+I would like to report a Telegram group/channel that is engaging in suspicious and harmful activities.
+Group/Channel username: https://t.me/team_144
+I believe they may be involved in scams and pornographic content, which is causing harm to the community.
+I would appreciate it if you could look into this matter and take appropriate action.
 
 Thank you for your attention to this matter.
-
-
 """
 
 names = ["Subhash","Nikhil","Akhilesh","Manjeet","Mrinal","Neha","Himanshu","Prince.","Dipankar","Rahul","Kamlesh","Vikram","Gaurav","Mithun","Karan","Bhupendra","Saifan","Deepak","Tapas","Jagdish","Bhola","Mohit","Sushil","Ujwal","Mithilesh","Prakash","Anshu","Shiva","Krishna","Ankit","Abhishek"]

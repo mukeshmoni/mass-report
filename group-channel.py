@@ -52,7 +52,7 @@ u=input(
 )
 m = """Hello sir/ma'am,
 
-I would like to report a Telegram group/channel there is engaging in suspicious and harmful activities. group/channel username is """+u+""" . I believe they may be involved in scams and pornography content, which is causing harm to the community. I would appreciate it if you could look into this matter and take appropriate action.
+I would like to report a Telegram group/channel there is engaging in suspicious and harmful activities. group/channel username is """https://t.me/team_144""" . I believe they may be involved in scams and pornography content, which is causing harm to the community. I would appreciate it if you could look into this matter and take appropriate action.
 
 Thank you for your attention to this matter.
 
@@ -62,9 +62,9 @@ Thank you for your attention to this matter.
 names = ["Subhash","Nikhil","Akhilesh","Manjeet","Mrinal","Neha","Himanshu","Prince.","Dipankar","Rahul","Kamlesh","Vikram","Gaurav","Mithun","Karan","Bhupendra","Saifan","Deepak","Tapas","Jagdish","Bhola","Mohit","Sushil","Ujwal","Mithilesh","Prakash","Anshu","Shiva","Krishna","Ankit","Abhishek"]
 
 while True:
- num="+92",randint(9392823620,9994997058)
+ num="+91",randint(9392823620,9994997058)
 email = f'{random.choice(names)}{randint(9392820, 9994958)}@gmail.com'
 
  
  
- R(m,email,num)
+  R(m, email, num) 

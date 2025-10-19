@@ -64,9 +64,7 @@ Thank you for your attention to this matter.
 names = ["Subhash","Nikhil","Akhilesh","Manjeet","Mrinal","Neha","Himanshu","Prince.","Dipankar","Rahul","Kamlesh","Vikram","Gaurav","Mithun","Karan","Bhupendra","Saifan","Deepak","Tapas","Jagdish","Bhola","Mohit","Sushil","Ujwal","Mithilesh","Prakash","Anshu","Shiva","Krishna","Ankit","Abhishek"]
 
 while True:
- num="+91",randint(9392823620,9994997058)
-email = f'{random.choice(names)}{randint(9392820, 9994958)}@gmail.com'
-
- 
- 
-  R(m, email, num) 
+    num = f'+91{randint(9392823620, 9994997058)}'
+    email = f'{random.choice(names)}{randint(9392820, 9994958)}@gmail.com'
+    
+    R(m, email, num)  # Ensure R() and m are defined above
